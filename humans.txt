@@ -1,0 +1,15 @@
+﻿/* the humans responsible & colophon */
+
+/* TEAM */
+Site Owner: Lan Ziming
+Site:
+Twitter:
+Location: Singapore
+
+/* THANKS */
+Names (& URL):
+
+/* SITE */
+Standards: HTML5, CSS3
+Components: Modernizr, jQuery, Selectvizr, NWMatcher
+Software: Notepad++, Git
