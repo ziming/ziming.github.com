@@ -32,7 +32,7 @@
 	<h3>What I could do</h3>
     <ul>
 	  <li>
-	  Very Basic web development in <abbr title="Hypertext Preprocessor">PHP</abbr> or with the
+	  Very basic web development in <abbr title="Hypertext Preprocessor">PHP</abbr> or with the
 	  <a href="http://www.djangoproject.com/">Django</a> web framework in Python.
 	  </li>
 	  <li>Implement very basic web layouts.</li>
