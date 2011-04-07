@@ -90,6 +90,10 @@ body#home nav#site-nav ul li a.home {styling}
 }
 
 /* Elements styling */
+
+a, a:active, a:visited { color: #FFA633;}
+a:hover { color: #8CD959; }
+
 p { margin: 0 0 24px; }
 
 strong { font-weight: bold;}
