@@ -5,7 +5,7 @@
   <title>Ziming's Hideout | Projects</title>
   <?php require_once('includes/site-head-boilerplate.html') ?>
 </head>
-<body id="portfolio">
+<body id="projects">
   <?php require_once('includes/site-header.html') ?>
   <?php require_once('includes/site-nav.html') ?>
   <div id="main" role="main">
