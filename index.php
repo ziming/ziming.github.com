@@ -26,7 +26,8 @@
     building a logic gates simulator for students’ learning in Java as well as a car rental website built with the 
 	<a href="http://www.djangoproject.com/">Django</a> web framework. Thus learning some python as well. 
 	While I have forgotten almost all of what I learnt previously in polytechnic due to my neglect of revising during my national 
-	service, I have since regretted this mistake and am starting to re learn what I have forgotten again from scratch.
+	service, I have since regretted this mistake and am starting to re learn what I have forgotten again from scratch. This personal 
+	website is my first step towards it.
 	</p>
 	
 	<h3>What I could do</h3>
