@@ -1,0 +1,107 @@
+/*
+style.css is base style for all projects
+screen.css (this file) are my author styles for this site.
+The font sizes are taken from lessframework.com
+*/
+
+/* Headers (h1, h2, etc) have no default font-size or margin; define those yourself */
+h1, h2, h3, h4, h5, h6 { font-family: 'Arvo', Georgia, serif; }
+
+h2, h3, h4 { color: #4080BF; margin: 16px 0 0; }
+
+h2 {
+	font-size: 42px;
+	line-height: 48px;
+}
+
+h3 {
+	font-size: 26px;
+	line-height: 36px;
+}
+
+h4 {
+	font-size: 22px;
+	line-height: 30px;
+}
+
+body {
+  width: 960px;
+  margin: 24px auto;
+  background: #4080BF;
+  /* background: #A7A7A7; light grey */
+  /* background: #747474; Darker grey */
+  /* background: #000; black */
+  font: 16px/24px 'PT Sans', Arial, Helvetica, sans-serif;
+}
+
+#site-header h1 {
+  color: #FFF; 
+  font-size: 59px; 
+  line-height: 70px; 
+  text-align: right;
+  /* Pop up Effect? */
+  text-shadow: 0px 1px 1px #000;
+}
+
+/* 
+Centered Navigation
+http://csswizardry.com/2011/01/create-a-centred-horizontal-navigation/
+*/
+#site-nav{
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+  #site-nav li{
+    display: inline;
+  }
+    #site-nav a{
+      display: inline-block;
+      padding: 10px;
+      /* color of the links */
+      color: #CCC;
+      /* color: rgba(255, 255, 255, 0.6); */
+    }
+    #site-nav a:hover, #site-nav a:focus {
+      color: #FFF;
+      background: rgba(255, 255, 255, 0.15);
+    }
+    
+/* Ends Centered Navigation */
+
+/* Current Nav Highlight base on page
+body#home nav#site-nav ul li a.home {styling}
+*/
+#home .home, #resume .resume,
+#portfolio .portfolio,
+#contact .contact { 
+  color: #FFF;
+  font-weight: bold;
+  /* background: #FFF; */
+}
+/* End Current Nav Highlight */
+
+#main {
+  /* center horizontally */
+  padding: 24px 48px;                                  
+  background: #FFF;
+  border-radius: 16px;
+}
+
+/* Elements styling */
+p { margin: 0 0 24px; }
+
+strong { font-weight: bold;}
+
+/* Forms Basic 
+I'm bad at styling forms so let keep it simple 
+*/
+label {
+  display: block;
+  padding-top: 16px;
+}
+
+input { width: 300px; }
+
+textarea { width: 400px; display: block; min-height: 120px; margin: 0 0 16px;}
