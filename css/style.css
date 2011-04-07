@@ -109,8 +109,7 @@ body, select, input, textarea {
   /* Set your base font here, to apply evenly */
 }
 
-a, a:active, a:visited { color: #607890; text-decoration: none; }
-a:hover { color: #036; }
+a, a:active, a:visited { text-decoration: none; }
 
 /**
 * Primary styles
