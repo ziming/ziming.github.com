@@ -60,6 +60,7 @@
 	  <li>Java SE – Beginner</li>
 	  <li>PHP – Beginner</li>
 	  <li>Python – Beginner</li>
+	  <li>Git – Beginneer</li>
 	  <li>LaTeX – Beginner</li>
 	</ul>
 	
